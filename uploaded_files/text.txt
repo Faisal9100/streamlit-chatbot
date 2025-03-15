@@ -1,0 +1,4 @@
+Assignment on AI:
+1. Define Artificial Intelligence.
+2. Describe the types of learning in AI (supervised, unsupervised, reinforcement learning).
+3. Discuss the application of AI in various industries.
